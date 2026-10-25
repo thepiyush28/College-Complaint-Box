@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.ComplaintBox" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_blue</item>
+        <item name="colorSecondary">@color/primary_blue</item>
+        <item name="colorTertiary">@color/primary_blue</item>
+        <item name="android:statusBarColor">@color/app_background</item>
+        <item name="android:navigationBarColor">@color/app_background</item>
+    </style>
+
+    <style name="Theme.ComplaintBox" parent="Base.Theme.ComplaintBox" />
+</resources>

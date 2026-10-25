@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="complaint_categories">
+        <item>Academic</item>
+        <item>Infrastructure</item>
+        <item>Library</item>
+        <item>Laboratory</item>
+        <item>Hostel</item>
+        <item>Canteen</item>
+        <item>Cleanliness</item>
+        <item>Transport</item>
+        <item>Internet</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="education_levels">
+        <item>Select Education Level</item>
+        <item>Certificate</item>
+        <item>Diploma</item>
+        <item>Undergraduate</item>
+        <item>Postgraduate</item>
+        <item>Doctorate</item>
+    </string-array>
+</resources>

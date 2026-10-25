@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">College Complaint Box</string>
+    <string name="login_title">College Complaint Box</string>
+    <string name="login_subtitle">Report. Track. Resolve.</string>
+    <string name="home_title">College Complaint Box</string>
+    <string name="home_subtitle">Report. Track. Resolve.</string>
+    <string name="submit_title">Submit Complaint</string>
+    <string name="my_complaints_title">My Complaints</string>
+    <string name="details_title">Complaint Details</string>
+    <string name="settings_title">Settings</string>
+    <string name="save_preferences">Save Preferences</string>
+    <string name="clear_preferences">Clear Preferences</string>
+</resources>
